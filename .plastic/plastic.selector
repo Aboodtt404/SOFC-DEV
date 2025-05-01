@@ -1,0 +1,4 @@
+repository "SOFC-DEV@Gamers_Legacy@cloud"
+  path "/"
+    br "/main"
+    co "/main"
